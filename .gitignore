@@ -1,0 +1,26 @@
+# Source Engine
+/game/
+/tools/
+/logs/
+*.log
+
+# Visual Studio
+.vs/
+
+# CLion
+.idea/
+cmake-build-*/
+
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+CMakeUserPresets.json
